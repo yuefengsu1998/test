@@ -3,24 +3,28 @@ let b ='sdsd'
 
 let a = 'yu'
 
-git clone 
+git clone '地址'
 
-git pull origin
+git pull origin '分支名'
 
 git add .
 
-git commit -m
+git commit -m 'xxxx'
 
-git push origin
+git push origin '分支名'
 
-git branch
+git branch '分支名'
 
-git checkout
+git branch -a
 
-git merge
+git branch -f
 
-git branck -d 
+git checkout '分支名'
 
-git push origin delete 
+git merge '分支名'
+
+git branck -d '分支名'
+
+git push origin delete '分支名'
 
 git status
