@@ -25,6 +25,6 @@ git merge '分支名' //合拼分支
 
 git branck -d '分支名' //删除分支本地
 
-git push origin delete '分支名' //删除远程分支
+git push origin --delete '分支名' //删除远程分支
 
 git status //查看状态
